@@ -21,3 +21,38 @@ Pembuatan internet gratis
 </body>
 </html>
 
+<h1>Terhubung dengan Saya</h1>
+<p align="left">
+<a href="https://twitter.com/MikoLebak?t=f6vRXj_BWGwv-EVKiNlCjA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miko_lebak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miko-lebak-2b71b0191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miko lebak" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mikolebakk?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youtube miko lebak" height="30" width="40" /></a>
+<a href="https://instagram.com/miko_lebak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miko_lebak" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
+</p>
+<a href="https://www.tiktok.com/@mikolebak7" target="blank"><img align="center" src="https://github.com/Mikolebak/Miko-lebak-badgeverifikasicentang.github.io/blob/main/ei_1690067777659-removebg-preview-2.png" alt="miko lebak official" height="30" width="40" /></a>
+</p>
+
+Saya senang berinteraksi dengan pengikut saya dan mendengar tanggapan serta saran dari Anda. Jika Anda ingin mengikuti perjalanan saya sebagai konten kreator, Anda dapat menemukan saya di berbagai platform media sosial: 
+
+• GitHub: github.com/mikolebakofficial...https://github.com/Mikolebak
+
+• YouTube: youtube.com/@mikolebakofficial...https://youtube.com/@mikolebakofficial?feature=share7
+
+• Instagram: instagram.com/@miko_lebak...https://instagram.com/miko_lebak?igshid=MzRlODBiNWFlZA==
+
+• TikTok: tiktok.com/@mikolebak7...https://www.tiktok.com/@mikolebak7?_t=8e7F7zTwjZq&_r=1
+
+•Twitter: twitter.com/@MikoLebak...https://twitter.com/MikoLebak?t=o_gOEdHXwzm1VSvUs77fPQ&s=09
+
+<h1>Catatan</h1>
+Ikuti saya di platform-platform tersebut untuk mendapatkan konten menarik, tutorial, dan update terbaru dari saya. Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi. Terima kasih telah mengunjungi profil GitHub saya!
+
+                             
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miko-lebak-official&label=Profile%20views&color=0e75b6&style=flat" alt="miko-lebak-official" /> </p> 
+
+- 🔭 I’m currently working on, [Konten misteri Vlog](https://youtube.com/@mikolebakofficial) 
+
+- 👯 I’m looking to collaborate on [Konten kreator](https://youtu.be/RqX-plnU8-0) 
+
+- ⚡ Fun fact **💯**
+- ![alt text](https://github.com/Mikolebak/Mikolebak/blob/main/Video.Guru_20230718_111121214.gif?raw=true)
