@@ -60,7 +60,6 @@ Ikuti saya di platform-platform tersebut untuk mendapatkan konten menarik, tutor
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tanya Hantu</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
