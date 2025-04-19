@@ -55,7 +55,7 @@ Ikuti saya di platform-platform tersebut untuk mendapatkan konten menarik, tutor
 
 - ⚡ Fun fact **💯**
 - ![alt text](https://github.com/Mikolebak/Mikolebak/blob/main/Video.Guru_20230718_111121214.gif?raw=true)
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
 <meta charset="UTF-8">
