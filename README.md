@@ -1,6 +1,5 @@
 # Internet-kuota-gratis.io
 Pembuatan internet gratis
-<!DOCTYPE html>
 <html lang="id">
 
     <h1>Apa Itu Internet?</h1>
