@@ -56,3 +56,20 @@ Ikuti saya di platform-platform tersebut untuk mendapatkan konten menarik, tutor
 
 - ⚡ Fun fact **💯**
 - ![alt text](https://github.com/Mikolebak/Mikolebak/blob/main/Video.Guru_20230718_111121214.gif?raw=true)
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tanya Hantu</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Tanya Hantu</h1>
+</header>
+<section>
+<h2>Misteri Alam Gaib</h2>
+<ul>
+<li>Apakah hantu itu benar-benar ada?</li>
+<li>Cerita horor mana yang paling menegangkan menurut Anda?</li>
